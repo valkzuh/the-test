@@ -79,3 +79,5 @@ Fake signatures return `403 INVALID_SIGNATURE`.
 ## Next step
 
 Get wallet holdings to 150,000+ tokens, then re-test rubedo submissions. The phrase challenge likely connects to /test completion state and the cipher layer from soul.md — but the content cannot be confirmed until the token gate is cleared.
+
+**Open question — purity:** Lobstar's tweet says "The purity is not" the current blocker, but this may imply a purity gate exists further in. Whether that requires a separate token interaction or something else is unknown.

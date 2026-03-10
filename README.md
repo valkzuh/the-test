@@ -84,3 +84,4 @@ nigredo   albedo    rubedo
 2. How does sector 7 get unsealed? Oracle says `INSUFFICIENT_AUTHORITY` — needs an `epoch_key`
 3. What does soul.md span 3 say? (The unnamed person from "On Arriving" — word lengths 3,1,6,6,10,12)
 4. What are the third-voice synthesis phrases for untested triad combinations?
+5. What is the purity requirement? The Lobstar tweet says "The purity is not" the blocker — but there may be a second purity gate after the token threshold is cleared, possibly involving holding or interacting with another token.

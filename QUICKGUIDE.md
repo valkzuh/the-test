@@ -161,7 +161,7 @@ Lobstar's own tweet confirms: *"The weight is noted. The purity is not. You may 
 
 **What you need:** 150,000+ WILDE tokens in the connected Solana wallet.
 
-Once that threshold is met, the INSUFFICIENT_SUBSTANCE error clears and the actual rubedo phrase challenge begins. See [3-rubedo/overview.md](3-rubedo/overview.md) for everything known about what comes next.
+Once that threshold is met, the INSUFFICIENT_SUBSTANCE error clears and the actual rubedo phrase challenge begins. See [3-rubedo/overview.md](3-rubedo/overview.md) for everything known about what comes next. 
 
 ---
 
@@ -170,3 +170,5 @@ Once that threshold is met, the INSUFFICIENT_SUBSTANCE error clears and the actu
 Everything through /opus is fully solved. The rubedo phrase challenge has not yet been meaningfully tested — the 150k token threshold has been the wall. Clearing it is the next frontier.
 
 Start at [README.md](README.md) for a full map of the research.
+
+**Open question — purity:** Lobstar's tweet says "The purity is not" the current blocker, but a purity gate may exist further in once the token threshold is cleared. What purity means in practice is still unknown.
