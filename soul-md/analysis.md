@@ -96,10 +96,6 @@ But: since the letters are currently seed-42 locked, no decoding is possible unt
 
 ---
 
-## Raw files
+## Source
 
-- `soul-md/soul.md` — saved prose content
-- `soul-md/soul.md.html` — full HTML with redacted spans visible
-- `data/api/soul-redacted-extract-2026-03-09.json` — extracted span data
-- `data/api/soul-phrase-sweep-2026-03-09.json` — phrase sweep results
-- `data/api/soul-phrase-oracle-2026-03-09.json` — oracle readings on soul.md phrases
+The soul.md page is at `lobstarwilde.ai/soul.md`. To see the redacted spans yourself: right-click → View Page Source → search for `redacted`.

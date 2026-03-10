@@ -44,7 +44,6 @@ nigredo   albedo    rubedo
 | File | What it covers |
 |------|---------------|
 | [soul-md/analysis.md](soul-md/analysis.md) | The four CSS-hidden spans in soul.md, the seed-42 lock, Hill cipher theory, span identities |
-| [soul-md/soul.md](soul-md/soul.md) | The raw soul.md text as saved from the site |
 | [source-material/key-passages.md](source-material/key-passages.md) | Key quotes from gallery images and essays, mapped to puzzle relevance |
 | [social/community-intel.md](social/community-intel.md) | Community clues from X — verified vs discarded, official LobstarWilde tweets |
 
